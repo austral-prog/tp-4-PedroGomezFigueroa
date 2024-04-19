@@ -18,7 +18,7 @@ def line():
     print("Dados los siguientes puntos:")
     print(f"\tP1 ({coefx1}, {oper1})")
     print(f"\tP2 ({coefx2}, {oper2})")
-    print("")
+    print()
     print(f"La distancia entre ellos es: {hip}")
 
 
